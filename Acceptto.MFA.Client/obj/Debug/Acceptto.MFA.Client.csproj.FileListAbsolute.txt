@@ -1,0 +1,7 @@
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\obj\Debug\Acceptto.MFA.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\bin\Debug\Acceptto.MFA.Client.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\bin\Debug\Acceptto.MFA.Client.pdb
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\bin\Debug\RestSharp.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\bin\Debug\RestSharp.xml
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\obj\Debug\Acceptto.MFA.Client.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.MFA.Client\obj\Debug\Acceptto.MFA.Client.pdb

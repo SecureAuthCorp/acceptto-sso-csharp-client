@@ -1,0 +1,10 @@
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\Acceptto.Sample.Web.dll.config
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\Acceptto.Sample.Web.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\Acceptto.Sample.Web.pdb
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\Acceptto.MFA.Client.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\RestSharp.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\Acceptto.MFA.Client.pdb
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\bin\RestSharp.xml
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\obj\Debug\Acceptto.Sample.Web.csprojResolveAssemblyReference.cache
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\obj\Debug\Acceptto.Sample.Web.dll
+C:\Users\Mani\Documents\Visual Studio 2013\Projects\AccepttoSampleClient\Acceptto.Sample.Web\obj\Debug\Acceptto.Sample.Web.pdb
